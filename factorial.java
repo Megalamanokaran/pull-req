@@ -6,7 +6,7 @@ int n=5;
 int fact=1;
 for(int i=1;i<=n;i++)	
 fact = fact*i;
-System.out.print("factorial is:"+fact);
-System.out.print("the answer is:"+fact);
+System.out.println("factorial is:"+fact);
+System.out.println("the answer is:"+fact);
 }
 }
